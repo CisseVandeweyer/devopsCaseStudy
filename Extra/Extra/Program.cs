@@ -34,7 +34,7 @@ class Program
 
         // Wait for the page to load
         var wait = new OpenQA.Selenium.Support.UI.WebDriverWait(driver, TimeSpan.FromSeconds(10));
-        wait.Until(d => d.FindElement(By.CssSelector("table#team-goals-grid tbody tr")));
+        //wait.Until(d => d.FindElement(By.CssSelector("table#team-goals-grid tbody tr")));
 
         // Find the goal type and amount from the table
         var goalRows = driver.FindElements(By.CssSelector("table#team-goals-grid tbody tr"));

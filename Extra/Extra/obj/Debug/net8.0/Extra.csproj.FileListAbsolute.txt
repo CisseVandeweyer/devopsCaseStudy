@@ -64,3 +64,4 @@ C:\school\jaar_2\devops\caseStudy\Extra\Extra\obj\Debug\net8.0\refint\Extra.dll
 C:\school\jaar_2\devops\caseStudy\Extra\Extra\obj\Debug\net8.0\Extra.pdb
 C:\school\jaar_2\devops\caseStudy\Extra\Extra\obj\Debug\net8.0\Extra.genruntimeconfig.cache
 C:\school\jaar_2\devops\caseStudy\Extra\Extra\obj\Debug\net8.0\ref\Extra.dll
+C:\school\jaar_2\devops\caseStudy\Extra\Extra\obj\Debug\net8.0\Extra.sourcelink.json

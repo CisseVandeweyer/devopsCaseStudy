@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cisse\\source\\repos\\Jobs\\Jobs\\Jobs.csproj": {}
+    "C:\\school\\jaar_2\\devops\\caseStudy\\Jobs\\Jobs\\Jobs.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cisse\\source\\repos\\Jobs\\Jobs\\Jobs.csproj": {
+    "C:\\school\\jaar_2\\devops\\caseStudy\\Jobs\\Jobs\\Jobs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cisse\\source\\repos\\Jobs\\Jobs\\Jobs.csproj",
+        "projectUniqueName": "C:\\school\\jaar_2\\devops\\caseStudy\\Jobs\\Jobs\\Jobs.csproj",
         "projectName": "Jobs",
-        "projectPath": "C:\\Users\\cisse\\source\\repos\\Jobs\\Jobs\\Jobs.csproj",
+        "projectPath": "C:\\school\\jaar_2\\devops\\caseStudy\\Jobs\\Jobs\\Jobs.csproj",
         "packagesPath": "C:\\Users\\cisse\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cisse\\source\\repos\\Jobs\\Jobs\\obj\\",
+        "outputPath": "C:\\school\\jaar_2\\devops\\caseStudy\\Jobs\\Jobs\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

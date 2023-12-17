@@ -1,19 +1,19 @@
 [
   {
     "GoalType": "Open Play",
-    "GoalAmount": 8
+    "GoalAmount": 19
   },
   {
     "GoalType": "Set Piece",
-    "GoalAmount": 3
-  },
-  {
-    "GoalType": "Counter Attack",
-    "GoalAmount": 3
+    "GoalAmount": 5
   },
   {
     "GoalType": "Penalty",
-    "GoalAmount": 1
+    "GoalAmount": 4
+  },
+  {
+    "GoalType": "Counter Attack",
+    "GoalAmount": 2
   },
   {
     "GoalType": "Own Goal",
