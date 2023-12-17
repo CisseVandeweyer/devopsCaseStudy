@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "oIt8itrvqyTBp32lD89yp4MVF5rFqqjhwn9Nkd33EEgWd+YYFZEqsm+wSE7BPxSQaT53swW9FPQFEfQBxX+bJQ==",
+  "success": true,
+  "projectFilePath": "C:\\school\\jaar_2\\devops\\caseStudy\\Extra\\Extra\\Extra.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cisse\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512",
+    "C:\\Users\\cisse\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\cisse\\.nuget\\packages\\selenium.webdriver\\4.16.2\\selenium.webdriver.4.16.2.nupkg.sha512",
+    "C:\\Users\\cisse\\.nuget\\packages\\selenium.webdriver.chromedriver\\120.0.6099.7100\\selenium.webdriver.chromedriver.120.0.6099.7100.nupkg.sha512"
+  ],
+  "logs": []
+}

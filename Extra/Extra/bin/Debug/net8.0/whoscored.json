@@ -1,0 +1,22 @@
+[
+  {
+    "GoalType": "Open Play",
+    "GoalAmount": 8
+  },
+  {
+    "GoalType": "Set Piece",
+    "GoalAmount": 3
+  },
+  {
+    "GoalType": "Counter Attack",
+    "GoalAmount": 3
+  },
+  {
+    "GoalType": "Penalty",
+    "GoalAmount": 1
+  },
+  {
+    "GoalType": "Own Goal",
+    "GoalAmount": 1
+  }
+]
