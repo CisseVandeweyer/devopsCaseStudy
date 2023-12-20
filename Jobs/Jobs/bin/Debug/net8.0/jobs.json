@@ -1,37 +1,37 @@
 [
   {
-    "Title": "Développeur Java",
-    "Company": "Genesis Consult",
-    "Location": "Brussel",
-    "Keywords": "Dev Java",
-    "Link": "https://www.ictjob.be/nl/vacature/developpeur-java/1-277213"
-  },
-  {
-    "Title": "Team Leader IT Performance & Quality",
-    "Company": "Smals",
-    "Location": "Brussel",
-    "Keywords": "Team Leader, Quality, Performance",
-    "Link": "https://www.ictjob.be/nl/vacature/smals-team-leader-it-performance-quality/1-273035"
-  },
-  {
-    "Title": "Infrastructure QA Engineer (SRE)",
-    "Company": "Smals",
-    "Location": "Brussel",
-    "Keywords": "Linux, QA, Routing, Firewalling",
-    "Link": "https://www.ictjob.be/nl/vacature/smals-infrastructure-qa-engineer-sre/1-263385"
-  },
-  {
-    "Title": "Senior Site Reliability Engineer",
+    "Title": "Java Developer",
     "Company": "Isabel Group",
     "Location": "Brussel",
-    "Keywords": "TerraForm, OpenShift, Helm, Jenkins",
-    "Link": "https://www.ictjob.be/nl/vacature/isabel-group-senior-site-reliability-engineer/1-277191"
+    "Keywords": "Java, ForgeRock, Postman, SoapUI",
+    "Link": "https://www.ictjob.be/nl/vacature/isabel-group-java-developer/1-277210"
   },
   {
-    "Title": "Site Reliability Engineer",
+    "Title": "Backend Java Engineer",
     "Company": "Isabel Group",
     "Location": "Brussel",
-    "Keywords": "SRE, DevOps",
-    "Link": "https://www.ictjob.be/nl/vacature/isabel-group-site-reliability-engineer/1-277165"
+    "Keywords": "Java, RabbitMQ, Kubernetes",
+    "Link": "https://www.ictjob.be/nl/vacature/isabel-group-backend-java-engineer/1-277200"
+  },
+  {
+    "Title": "Java Developer",
+    "Company": "Cheops",
+    "Location": "Brussel, Antwerpen, Leuven, Gent",
+    "Keywords": "Java Spring Hibernate angular",
+    "Link": "https://www.ictjob.be/nl/vacature/cheops-java-developer/12-141692"
+  },
+  {
+    "Title": "Boomi Developer (Integratie)",
+    "Company": "Argenta",
+    "Location": "Antwerpen",
+    "Keywords": "Boomi, Java17, Oracle, Middleware",
+    "Link": "https://www.ictjob.be/nl/vacature/argenta-boomi-developer-integratie/1-276629"
+  },
+  {
+    "Title": "Senior Google Developer",
+    "Company": "Capgemini",
+    "Location": "Vlaanderen",
+    "Keywords": "Google, Google Cloud, Java",
+    "Link": "https://www.ictjob.be/nl/vacature/capgemini-senior-google-developer/1-276537"
   }
 ]
